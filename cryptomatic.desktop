@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Cryptomatic
+GenericName=en- and decryption of text
+Comment=
+Exec=/usr/bin/python3 ~/.prg/py/cryptomatic/main.py
+Icon=~/.prg/py/cryptomatic/icon.png
+Terminal=true
+Type=Application
+Categories=secruety
