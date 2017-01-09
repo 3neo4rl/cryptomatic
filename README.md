@@ -5,4 +5,5 @@ Brute Force attacks will not sucessful.
 Based on "Vingere quadrat"
 Installing:
 download the projeckt as Zip file and unpack it on your program directory.
-For Linux users install it in ~/.prg/py and put the crypt.desktop data on your desktop.
+For Linux users install it in "~/.prg/py" and put the "crypt.desktop" data on your desktop, in the ".desktop" data change ~ throug
+your home directory, if it doesn't work to start with the ".desktop" file.
